@@ -25,7 +25,7 @@ I ❤love
   <tr>
     <td>
       <a href="https://github.com/lenetquiparle/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenetquiparle&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepcquiparle&layout=compact" alt="Top Languages">
       </a>
     </td>
     <td>
