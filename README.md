@@ -13,7 +13,7 @@ I ❤love
 + ♔chess
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeNetQuiParle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LePCquiparle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊Skills and Stats  
 
