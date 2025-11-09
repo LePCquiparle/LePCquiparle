@@ -1,6 +1,6 @@
 # Hi👋 ! I'm lepcquiparle, and I'm ![Status](https://img.shields.io/badge/Status-Online-brightgreen)  
 
-![](https://img.shields.io/badge/🎉🎉100_Followers_!-Thank_You-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/🎉🎉150_Followers_!-Thank_You-brightgreen?style=for-the-badge)
 
 ![Visitor Count](https://profile-counter.glitch.me/LeNetQuiParle/count.svg)
 
