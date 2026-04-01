@@ -1,8 +1,8 @@
 # Hi👋 ! I'm lepcquiparle, and I'm ![Status](https://img.shields.io/badge/Status-Online-brightgreen)  
 
-![](https://img.shields.io/badge/Next_goal:_-200_followers-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/200_followers_-thank_you-brightgreen?style=for-the-badge)
 
-![Visitor Count](https://profile-counter.glitch.me/LePcQuiParle/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/LePCquiparle/count.svg)
 
 I'm french-greek,  
 I ❤love  
