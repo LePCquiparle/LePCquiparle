@@ -1,8 +1,8 @@
 # Hi👋 ! I'm lepcquiparle, and I'm ![Status](https://img.shields.io/badge/Status-Online-brightgreen)  
 
-![](https://img.shields.io/badge/200_followers_-thank_you-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/250_followers_-thank_you-brightgreen?style=for-the-badge)
 
-![Visitor Count](https://profile-counter.glitch.me/LePCquiparle/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/bl4nkspace/count.svg)
 
 I'm french-greek,  
 I ❤love  
@@ -13,7 +13,7 @@ I ❤love
 + ♔chess
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LePcQuiParle&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bl4nkspace&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📊Skills and Stats  
 
@@ -25,7 +25,7 @@ I ❤love
   <tr>
     <td>
       <a href="https://github.com/lepcquiparle/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepcquiparle&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4nkspace&layout=compact" alt="Top Languages">
       </a>
     </td>
     <td>
